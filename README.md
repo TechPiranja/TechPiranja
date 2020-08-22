@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="TechPiranja | Instagram" width="22px" src="https://de.wikipedia.org/wiki/Datei:Instagram_logo_2016.svg" />][instagram]
+[<img align="left" alt="TechPiranja | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
 <br />
 
