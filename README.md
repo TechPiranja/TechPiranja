@@ -51,11 +51,8 @@
 
 </details>-->
 
-<details>
-  <summary>:zap: Github Stats</summary>
+### Github Stats:
 
-  <img align="left" alt="TechPiranja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TechPiranja&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="TechPiranja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TechPiranja&show_icons=true&hide_border=true"
 
 [instagram]: https://www.instagram.com/techpiranja
