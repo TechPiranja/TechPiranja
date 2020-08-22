@@ -47,12 +47,10 @@
 3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity
-
-</details>-->
+<!--END_SECTION:activity-->
 
 ### Github Stats:
 
-<img align="left" alt="TechPiranja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TechPiranja&show_icons=true&hide_border=true"
+  <img align="left" alt="TechPiranja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TechPiranja&show_icons=true&hide_border=true"/>
 
 [instagram]: https://www.instagram.com/techpiranja
