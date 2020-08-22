@@ -51,7 +51,7 @@
 
 ### Github Stats:
 
-  <img align="left" alt="TechPiranja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TechPiranja&show_icons=true&hide_border=true"/>
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechPiranja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" alt="TechPiranja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TechPiranja&show_icons=true&hide_border=true"/>
+  <img align="center" alt="TechPiranja's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechPiranja&layout=compact" />
 
 [instagram]: https://www.instagram.com/techpiranja
