@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="TechPiranja | Instagram" width="60px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="TechPiranja | Instagram" width="20px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 
 <br />
 
