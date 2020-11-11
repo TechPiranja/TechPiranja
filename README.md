@@ -6,7 +6,7 @@
 
 -   🔭 I’m currently working on a RSS Feed App called RoSSie!
 -   🌱 I’m currently learning React/React Native and Angular
--   🥅 2020 Goals: Publish my first App (App and Play Store)
+-   🥅 2020 Goals: Publish my first App (App and Play Store) - done this one! Goal accomplished
 -   ⚡ Fun fact: I love to draw and play piano
 
 <!-- ### Spotify Playing 🎧
