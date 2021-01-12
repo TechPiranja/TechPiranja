@@ -4,11 +4,11 @@
 
 ## I'm a Developer, and Student!
 
--   🔭 I’m currently working on a RSS Feed App called RoSSie!
--   🌱 I’m currently learning React/React Native and Angular
--   🥅 2020 Goals: Publish my first App (App and Play Store) - done this one! Goal accomplished
+-   🔭 I’m improving my RSS Feed App called RoSSie! Also designing the concept of my game!
+-   🌱 I’m currently learning React/React Native and Unity Game Engine
+-   🥅 2021 Goals: Continue on my App RoSSie, Start development of my Game!
 -   ⚡ Fun fact: I love to draw and play piano
-
+-   🔥 I share my work and personal growth on social media to inspire others!
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="TechPiranja Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
