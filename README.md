@@ -2,7 +2,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
 
-## I'm a Developer, and Student!
+## I'm a Developer, and Student!!
 
 -   🔭 I’m improving my RSS Feed App called RoSSie! Also designing the concept of my game!
 -   🌱 I’m currently learning React/React Native and Unity Game Engine
