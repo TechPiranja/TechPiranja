@@ -2,14 +2,12 @@
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
 
-## I'm a Developer, and Student!!
+## I'm a full stack software developer!!
 
 -   🔭  I’m improving my RSS Feed App called RoSSie! Also designing the concept of my game!
--   🌱  I’m currently learning React/React Native and Unity Game Engine
--   🥅  2021 Goals: Continue on my App RoSSie, Start development of my Game!
+-   🌱  I’m currently doing lots of projects with React/React Native
 -   ⚡   Fun fact: I love to draw and play piano
 -   🔥  I share my work and personal growth on social media to inspire others!
-
 
 
 <!-- ### Spotify Playing 🎧
