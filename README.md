@@ -9,5 +9,3 @@
 
 ### Connect with me:
 https://www.anja-stricker.de
-<br />
-[instagram]: https://www.instagram.com/techpiranja
