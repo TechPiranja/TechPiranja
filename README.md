@@ -47,9 +47,5 @@ https://www.anja-stricker.de
 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
-### Github Stats:
-
-  <img align="center" alt="TechPiranja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TechPiranja&show_icons=true&hide_border=true"/>
-  <img align="center" alt="TechPiranja's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechPiranja&layout=compact" />
 
 [instagram]: https://www.instagram.com/techpiranja
